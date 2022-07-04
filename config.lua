@@ -20,7 +20,7 @@ killsToBlackSkull = 12
 
 -- Connection Config
 -- NOTE: maxPlayers set to 0 means no limit
-ip = "201.222.30.58"
+ip = "26.157.120.129"
 bindOnlyGlobalAddress = false
 loginProtocolPort = 7171
 gameProtocolPort = 7172
